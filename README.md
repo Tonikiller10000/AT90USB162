@@ -11,13 +11,9 @@ This is an AT90USB162 microcontroller development board.
   </tr>
  </table>
 
-
-Schematic:
-<img src="https://github.com/Tonikiller10000/AT90USB162/blob/main/AT90USB162_Pictures/5.png"/>
-
 Links:
 - AT90USB162 datasheet: https://pdf1.alldatasheet.com/datasheet-pdf/view/241064/ATMEL/AT90USB162.html
-
+- Schematic: https://github.com/Tonikiller10000/AT90USB162/blob/main/AT90USB162_Pictures/5.png
 
 
 
